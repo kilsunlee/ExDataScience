@@ -1,3 +1,3 @@
-# Atividades dadas no grupo de Ciência de dados
+# Nome completo (programa de pós-graduação - mestrado ou doutorado)
 
 #Eu fiz um comentário no readme Diego Pereira
